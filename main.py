@@ -178,8 +178,8 @@ if uploaded_files:
 st.markdown("""
 <hr>
 <div style='text-align:center; 'color:#5A4FF3; padding:10px; font-size:13px;'>
-    <p>CompressX — Bulk PDF Compressor</p>
-    <p>Made in Punjab 🇮🇳</p>
+    <p style='color:green';>CompressX — Bulk PDF Compressor</p>
+    <p style='color:green';>Made in Punjab 🇮🇳</p>
     <p style='color:green'; >Support: jagdevsinghdosanjh@gmail.com | WhatsApp:+91-8146553307</p>
 </div>
 """, unsafe_allow_html=True)
