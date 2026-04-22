@@ -177,7 +177,7 @@ if uploaded_files:
 # ---------- Footer ----------
 st.markdown("""
 <hr>
-<div style='text-align:center; color:gray; padding:10px; font-size:13px;'>
+<div style='text-align:center; 'color:#5A4FF3; padding:10px; font-size:13px;'>
     <p>CompressX — Bulk PDF Compressor</p>
     <p>Made in Punjab 🇮🇳</p>
     <p>Support: jagdevsinghdosanjh@gmail.com | WhatsApp:+91-8146553307</p>
