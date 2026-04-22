@@ -13,6 +13,7 @@ st.markdown("""
 <div style='text-align:center; padding:20px'>
     <h1 style='color:#5A4FF3; margin-bottom:4px;'>CompressX</h1>
     <h3 style='margin-top:0;'>Bulk PDF Compressor &lt;7MB Auto‑Target</h3>
+    <h2 style='margin-top:0;'>Use Single File Compression for reliable and fast results because CompressorX-APP is still under development</h2>
     <p>Smaller PDFs. Bigger Productivity.</p>
     <p style='color:gray; font-size:13px;'>Version 1.0.0</p>
 </div>
@@ -178,6 +179,6 @@ st.markdown("""
 <div style='text-align:center; color:gray; padding:10px; font-size:13px;'>
     <p>CompressX — Bulk PDF Compressor</p>
     <p>Made in Punjab 🇮🇳</p>
-    <p>Support: your-email | WhatsApp</p>
+    <p>Support: jagdevsinghdosanjh@gmail.com | WhatsApp:+91-8146553307</p>
 </div>
 """, unsafe_allow_html=True)
